@@ -1,0 +1,330 @@
+{
+  "acerbus": [
+    "Qui saporem habet asperum et adstringentem, ut fructus immaturi.",
+    "Gravis, molestus, luctuosus, tristis.",
+    "De ingenio hominum, saevus, severus, morosus, crudelis.",
+    "Praematurus, intempestivus, de morte praesertim dictum.",
+    "De dictis aut scriptis, mordax, asper, maledicus.",
+    "De sono vel voce, stridulus, raucus."
+  ],
+  "adsumo": [
+    "Ad se capere, recipere, suscipere.",
+    "Sibi vindicare, arrogare, usurpare.",
+    "Adiungere, addere, associare.",
+    "Suscipere vel adoptare (nomen, animum, personam).",
+    "In societatem vel consilium admittere.",
+    "Pro certo vel pro concesso sumere."
+  ],
+  "ancilla": [
+    "Serva, famula.",
+    "Mulier servilis condicionis.",
+    "Ministra, adiutrix.",
+    "Id quod alteri rei subservit vel est subiectum."
+  ],
+  "beatus": [
+    "Felix, fortunatus, prosper.",
+    "Dives, opulentus.",
+    "Splendidus, magnificus, lautus.",
+    "Sanctus, qui aeterna vita fruitur.",
+    "Defunctus, piae memoriae."
+  ],
+  "civitas": [
+    "Ius civis; condicio civis.",
+    "Communitas omnium civium.",
+    "Res publica; summa rerum.",
+    "Urbs, oppidum.",
+    "Gens, natio."
+  ],
+  "cohors": [
+    "Locus saeptus, area ad villam pertinens.",
+    "Saeptum in quo pecora aut aves continentur.",
+    "Decima pars legionis Romanae.",
+    "Manipulus vel corpus militum.",
+    "Caterva, turba, comitatus hominum.",
+    "Grex animalium.",
+    "Custodia corporis principis, praesertim cohors praetoria."
+  ],
+  "consilium": [
+    "Deliberatio, consultatio.",
+    "Sententia, suasum.",
+    "Propositum, ratio, institutum.",
+    "Decretum, placitum.",
+    "Coetus hominum deliberantium.",
+    "Prudentia, iudicium, sapientia."
+  ],
+  "consul": [
+    "Summus magistratus annuus rei publicae Romanae, qui cum collega summum imperium habebat.",
+    "Proconsul; qui provinciae praeerat.",
+    "Magistratus honorarius tempore Imperii, cuius nomen anno inscribebatur.",
+    "Princeps vel rex gentium exterarum qui hunc titulum honoris causa accipiebat.",
+    "Dux vel rector, sensu translato."
+  ],
+  "credo": [
+    "Fidem habere alicui.",
+    "Confidere alicui.",
+    "Verum esse putare, existimare.",
+    "Opinari, sentire.",
+    "Aliquid alicui committere, mandare.",
+    "Pecuniam mutuam dare.",
+    "Fidem religiosam ponere in aliquo."
+  ],
+  "dolus": [
+    "Fraus, fallacia, deceptio.",
+    "Astutia, calliditas, sollertia.",
+    "Artificium, machinatio, commentum.",
+    "Perfidia, insidiae.",
+    "Malus animus, consilium nocendi.",
+    "Stratagema, praesertim in re militari."
+  ],
+  "dubius": [
+    "Incertus, haesitans.",
+    "Fluctuans, vacillans.",
+    "De quo dubitatur; ambiguus, anceps.",
+    "Periculosus, criticus, difficilis.",
+    "Infidus, inconstans.",
+    "Obscurus."
+  ],
+  "dux": [
+    "Qui ducit; ductor, monstrator viae.",
+    "Imperator, praefectus exercitus vel copiae militaris.",
+    "Princeps, rector civitatis, gentis, aut populi.",
+    "Auctor, caput, instigator cuiusvis rei, consilii, vel factionis.",
+    "Animal quod gregem praecedit.",
+    "In Latinitate posteriore, titulus nobilitatis.",
+    "Gubernator navis.",
+    "(Poetice) Maritus."
+  ],
+  "fidelis": [
+    "Cui fides haberi potest; fidus.",
+    "Qui fidem servat; constans.",
+    "Tutus, securus, firmus.",
+    "Stabilis, durans, perpetuus.",
+    "Credens; qui fidem in Deum habet."
+  ],
+  "honor": [
+    "Existimatio, reverentia, laus.",
+    "Magistratus, munus publicum.",
+    "Praemium, decus, insigne.",
+    "Dignitas, auctoritas.",
+    "Cultus qui deis adhibetur.",
+    "Pulchritudo, decor, venustas.",
+    "Donum honoris causa datum; merces."
+  ],
+  "hostis": [
+    "Inimicus publicus, qui rem publicam bello persequitur.",
+    "Peregrinus, advena, alienigena.",
+    "Adversarius, aemulus, competitor in quacumque re.",
+    "Exercitus inimicus, copiae adversariae.",
+    "Res vel animal quod nocet aut infestum est."
+  ],
+  "humanitas": [
+    "Natura hominis propria.",
+    "Benignitas, benevolentia, clementia.",
+    "Mitis et placidus animus erga alios.",
+    "Cultus animi ac doctrina liberalis.",
+    "Eruditio et cognitio artium optimarum.",
+    "Mores comi et urbani.",
+    "Sermonis elegantia et nitor."
+  ],
+  "imperator": [
+    "Is qui imperat; dux, praefectus.",
+    "Summus dux exercitus qui summum imperium habet.",
+    "Dux victor, qui post victoriam ab exercitu suo hoc nomine salutatur.",
+    "Princeps et dominus Imperii Romani.",
+    "Rector, gubernator, dominus.",
+    "Figurate: princeps vel magister in aliqua re."
+  ],
+  "itero": [
+    "Iterum facere; repetere.",
+    "Agros iterum arare.",
+    "Dicendo vel scribendo repetere.",
+    "Magistratum vel honorem denuo gerere.",
+    "Denuo narrare vel commemorare.",
+    "Cursum vel viam rursus facere."
+  ],
+  "jus": [
+    "Liquamen ex carne vel holeribus coctis; sorbitio.",
+    "Quod fas est et aequum; aequitas.",
+    "Praeceptum legitimum; lex.",
+    "Corpus legum in civitate.",
+    "Potestas vel facultas legitima aliquid agendi.",
+    "Locus ubi lites diiudicantur; tribunal.",
+    "Auctoritas, imperium, ditio."
+  ],
+  "licet": [
+    "Permittitur, conceditur.",
+    "Fas est.",
+    "Potestas aut facultas datur.",
+    "Quamvis, etsi.",
+    "Venale est, aestimatur."
+  ],
+  "necessarius": [
+    "Quod deesse non potest; sine quo fieri non potest.",
+    "Qui vel quod vitari nequit; fatalis.",
+    "Qui ad aliquid agendum cogit vel impellit.",
+    "(Substantive) Qui propinquitatis, amicitiae, vel officii vinculis coniunctus est.",
+    "(Substantive, pl.) Res ad vitam sustentandam utiles."
+  ],
+  "nepos": [
+    "Filius filii aut filiae.",
+    "Progenies; qui ab aliquo ortus est.",
+    "Filius fratris aut sororis.",
+    "Homo prodigus et luxuriosus; dissipator bonorum.",
+    "Surculus novellus; propago arboris.",
+    "Pullus animalis."
+  ],
+  "nobilitas": [
+    "Claritudo, fama.",
+    "Genus illustre, condicio generosa.",
+    "Ordo nobilium, proceres.",
+    "Praestantia, excellentia.",
+    "Magnitudo animi, virtus."
+  ],
+  "oportet": [
+    "Necesse est.",
+    "Convenit.",
+    "Decet.",
+    "Officium est.",
+    "Opus est.",
+    "Par est."
+  ],
+  "poena": [
+    "Supplicium, castigatio, mulcta.",
+    "Pretium quod pro delicto solvitur; satisfactio.",
+    "Dolor, cruciatus, labor, aerumna.",
+    "Ultio, vindicatio.",
+    "Dea quae scelera punit; Furia."
+  ],
+  "pontifex": [
+    "Qui pontem facit.",
+    "Sacerdos supremi collegii Romani.",
+    "Sacerdos magnus; antistes.",
+    "Episcopus in Ecclesia Christiana.",
+    "Summus Pontifex, episcopus Romanus.",
+    "Is qui quasi pontem facit inter deos et homines."
+  ],
+  "potestas": [
+    "Facultas, vis, habilitas aliquid faciendi.",
+    "Imperium, auctoritas publica, magistratus.",
+    "Dominatio, ditio, ius in aliquem vel aliquid.",
+    "Occasio, opportunitas, copia.",
+    "Significatio, sensus, vis verbi.",
+    "Numen vel vis divina.",
+    "Persona quae imperium tenet."
+  ],
+  "regnum": [
+    "Potestas regia, imperium monarchicum.",
+    "Civitas vel terra quae regi subest.",
+    "Dominatus, tyrannis.",
+    "Imperium, principatus, dominatio.",
+    "(Sensu ecclesiastico) Regnum Dei vel Caelorum."
+  ],
+  "sacramentum": [
+    "Pecunia in iudicio a litigantibus deposita.",
+    "Ius iurandum militare.",
+    "Obligatio sollemnis vel sponsio.",
+    "Mysterium; res sacra et arcana.",
+    "Signum visibile gratiae invisibilis.",
+    "Ritus sacer Christianus."
+  ],
+  "salus": [
+    "Sanitas, bona valetudo corporis.",
+    "Incolumitas, conservatio a periculo.",
+    "Liberatio ex calamitate aut discrimine.",
+    "Prosperitas civitatis, commune bonum.",
+    "Spes servandi, praesidium, auxilium.",
+    "Salutatio (praesertim in epistulis).",
+    "(Apud Christianos) Redemptio animae, vita aeterna."
+  ],
+  "sanctus": [
+    "Divino numini consecratus vel dicatus.",
+    "Inviolabilis, qui vel quod sine poena violari non potest.",
+    "Venerabilis, augustus, reverendus.",
+    "Integer, pius, purus, a scelere alienus.",
+    "(Substantive) Vir vel mulier ob vitae sanctitatem in caelis esse creditus/credita."
+  ],
+  "sapientia": [
+    "Cognitio rerum divinarum et humanarum.",
+    "Prudentia et rectum iudicium.",
+    "Summa cognitio vel eruditio.",
+    "Peritia et ars.",
+    "Subtilitas iudicandi, gustus.",
+    "Philosophia.",
+    "Divina mens et consilium.",
+    "Verbum Dei, Christus."
+  ],
+  "scriptura": [
+    "Actus scribendi.",
+    "Id quod scriptum est.",
+    "Opus litterarium, liber, epistula.",
+    "Forma et ductus litterarum.",
+    "Lex vel decretum scripto mandatum.",
+    "Vectigal pro pecore in pascuis publicis.",
+    "Sacri libri Iudaeorum et Christianorum; Biblia Sacra."
+  ],
+  "senatus": [
+    "Summus rei publicae ordo, e senioribus aut primoribus civibus constans.",
+    "Conventus vel consessus senatorum.",
+    "Locus ubi senatores conveniebant, curia.",
+    "Consilium publicum in aliis civitatibus vel gentibus.",
+    "Per translationem, coetus virorum gravium et sapientium."
+  ],
+  "sensus": [
+    "Facultas percipiendi qua animus per corpus res externas sentit.",
+    "Unus ex quinque modis sentiendi (visus, auditus, olfactus, gustus, tactus).",
+    "Motus animi, affectus, animi affectio.",
+    "Sententia, opinio, iudicium.",
+    "Cogitatio, notio, intellectus.",
+    "Prudentia, iudicium rectum, intelligentia.",
+    "Significatio, vis verbi aut orationis.",
+    "Modus vel ratio sentiendi aut cogitandi.",
+    "Sententia integra et absoluta."
+  ],
+  "simplex": [
+    "Qui ex una tantum re constat.",
+    "Non compositus.",
+    "Non mixtus, purus.",
+    "Sine ornamento, inornatus.",
+    "Apertus, candidus, sincerus.",
+    "Sine fuco ac fallaciis.",
+    "Ingenuus, artifìcii nescius."
+  ],
+  "templum": [
+    "Spatium in aere vel in terra ab augure inauguratum ad auspicia capienda.",
+    "Aedificium sacrum deo vel deae consecratum; fanum.",
+    "Quivis locus sacer ac venerabilis.",
+    "Sepulcrum magnificum, monumentum.",
+    "Caelum, ampla deorum sedes.",
+    "Locus editus et latus; prospectus.",
+    "Tignum transversum in tecto aedificii."
+  ],
+  "titulus": [
+    "Inscriptio, nota, elogium.",
+    "Nomen operis in fronte libri vel voluminis inscriptum.",
+    "Tabula in aedibus, monumentis, statuisve posita ad indicandum nomen vel rem.",
+    "Libellus de re venali vel domo locanda.",
+    "Nomen honorificum; appellatio dignitatis.",
+    "Gloria, laus, decus.",
+    "Praetextus, species, causa simulata.",
+    "Ius, causa legitima ad possidendum aliquid.",
+    "Ecclesia paroecialis, praesertim Romae."
+  ],
+  "virtus": [
+    "Virilitas; qualitas viro propria.",
+    "Fortitudo, praesertim in bello.",
+    "Animi excellentia; probitas; integritas morum.",
+    "Praestantia; meritum; bonitas.",
+    "Vis; potestas; efficacitas.",
+    "Factum praeclarum; facinus egregium.",
+    "Dea Romana, fortitudinis personificatio."
+  ],
+  "voluntas": [
+    "Potestas animi qua aliquid optamus aut decernimus.",
+    "Desiderium, cupiditas, id quod quis vult.",
+    "Propositum, consilium, intentio.",
+    "Benevolentia, animus benevolus, favor.",
+    "Sententia, mens (praesertim legis aut scriptoris).",
+    "Testamentum, iudicium de rebus suis post mortem.",
+    "Consensus, assensus."
+  ]
+}

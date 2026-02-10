@@ -1,0 +1,886 @@
+{
+  "abundar": [
+    "Dicho de una cosa: Existir en gran cantidad.",
+    "Tener en abundancia, poseer en gran cantidad algo.",
+    "Dicho de una persona: Estar de acuerdo con otra en una opinión, idea o parecer.",
+    "Insistir con nuevos datos o argumentos sobre algo ya dicho o tratado.",
+    "Ser suficiente o bastar."
+  ],
+  "actitud": [
+    "Postura del cuerpo humano, especialmente cuando es determinada por los movimientos del ánimo, o expresa algo con eficacia.",
+    "Postura de un animal cuando por algún motivo llama la atención.",
+    "Disposición de ánimo manifestada de algún modo.",
+    "Postura que se da a las figuras en las obras de pintura y escultura."
+  ],
+  "adelante": [
+    "Hacia delante.",
+    "Más allá.",
+    "En tiempo futuro.",
+    "Usado para indicar a alguien que puede entrar o pasar.",
+    "Usado para dar ánimo.",
+    "Usado para indicar a alguien que prosiga en lo que está diciendo o haciendo."
+  ],
+  "agradecer": [
+    "Sentir o mostrar gratitud por algo recibido.",
+    "Corresponder de alguna manera al favor o beneficio recibido.",
+    "Dicho de una cosa: Mostrar aprecio o gratitud."
+  ],
+  "aguantar": [
+    "Sostener o no dejar caer algo.",
+    "Tolerar o llevar con paciencia a alguien o algo molesto o desagradable.",
+    "Soportar un esfuerzo, un dolor o una situación difícil sin ceder.",
+    "Reprimir o contener un impulso, un sentimiento o una expresión.",
+    "Resistir el paso del tiempo o el uso sin estropearse.",
+    "Abstenerse o privarse de algo.",
+    "(coloquial) Esperar, detenerse.",
+    "(pronominal) Conformarse o resignarse con algo."
+  ],
+  "albergar": [
+    "Dar albergue u hospedaje a alguien.",
+    "Servir de albergue o vivienda a alguien.",
+    "Encerrar o contener algo.",
+    "Tener o sentir un determinado sentimiento o idea.",
+    "Tomar albergue.",
+    "Acogerse al sagrado de un templo."
+  ],
+  "arena": [
+    "Conjunto de partículas disgregadas de rocas, sobre todo si son silíceas, que se acumulan en las riberas de los mares o de los ríos, o en capas de los terrenos de acarreo.",
+    "Lugar en que se celebraban en los circos antiguos los espectáculos de lucha.",
+    "Ruedo de una plaza de toros.",
+    "Lugar donde se compite o se debate.",
+    "coloq. Rueda de molino harinero.",
+    "Med. Residuo mineral, como la sal o el cálculo, en forma de granos muy pequeños, que se expulsa con la orina.",
+    "pl. Lija muy fina."
+  ],
+  "asolar": [
+    "Destruir, arruinar, arrasar.",
+    "Secar los campos o las plantas el calor o la sequía.",
+    "Dicho del sol: Dar con gran fuerza en un lugar."
+  ],
+  "ataque": [
+    "Acción de atacar.",
+    "En una contienda, acción ofensiva contra el enemigo.",
+    "En una discusión o debate, acción de impugnar o contradecir con fuerza.",
+    "En un escrito o discurso, crítica u oposición vehementes.",
+    "Arrebato o impulso físico o moral.",
+    "Repentina aparición de un estado patológico.",
+    "En algunos deportes, conjunto de los jugadores que constituyen la delantera de un equipo.",
+    "En algunos deportes, acción ofensiva de un equipo o de un jugador.",
+    "Principio de la emisión de un sonido o de una frase musical.",
+    "Corrosión que un ácido o un mordiente produce en una plancha metálica.",
+    "Acción y efecto de atacar al toro para provocarlo.",
+    "Estupor o conmoción repentinos y pasajeros."
+  ],
+  "atrás": [
+    "Hacia la parte que está o queda a las espaldas de alguien o de algo.",
+    "En o hacia el pasado.",
+    "Denota idea de retroceso.",
+    "En lugar posterior.",
+    "En estado de atraso.",
+    "Además o encima.",
+    "Usado para mandar retirarse a alguien."
+  ],
+  "ausencia": [
+    "Acción y efecto de ausentarse o de estar ausente.",
+    "Tiempo en que alguien está ausente.",
+    "Falta o privación de algo.",
+    "Situación legal de la persona cuyo paradero se ignora.",
+    "Pérdida breve y repentina de la conciencia."
+  ],
+  "avance": [
+    "Acción y efecto de avanzar.",
+    "Mejora, progreso.",
+    "En una obra o escrito, parte que se da a conocer antes de su terminación o publicación.",
+    "Anticipo o cantidad adelantada de un pago.",
+    "Ataque para ganar terreno.",
+    "En los motores de explosión, anticipación del encendido respecto al momento en que el pistón llega al punto muerto superior.",
+    "Cada uno de los impulsos que hacen avanzar el carro de una impresora.",
+    "En las elecciones, informe del resultado de las votaciones antes de completarse el escrutinio."
+  ],
+  "banco": [
+    "Asiento, con respaldo o sin él, en que pueden sentarse varias personas.",
+    "Mesa de trabajo para carpinteros, cerrajeros y otros artesanos.",
+    "Establecimiento público de crédito, constituido en sociedad por acciones.",
+    "Conjunto de peces que van juntos en gran número.",
+    "Acumulación grande de arena, nieve o niebla.",
+    "Establecimiento médico donde se conservan y almacenan órganos, sangre u otras sustancias humanas.",
+    "Conjunto de datos o de informaciones almacenados y estructurados para su posterior utilización.",
+    "En un juego, cantidad de dinero o fichas que tiene el jugador que dirige la partida.",
+    "Asiento de los remeros en las galeras.",
+    "En algunos deportes, asiento que ocupan los jugadores suplentes y el entrenador.",
+    "Capa horizontal de piedra que se encuentra en una cantera.",
+    "Asiento delantero de un vehículo automóvil.",
+    "Madero grueso escuadrado."
+  ],
+  "canal": [
+    "Cauce artificial por donde se conduce el agua para darle salida o para otros usos.",
+    "Estrecho marítimo, natural o artificial.",
+    "Conducto, natural o artificial, en el cuerpo de un ser vivo.",
+    "Cada una de las bandas de frecuencia en que puede emitir una estación de televisión o de radio.",
+    "Empresa o sociedad dedicada a la emisión de televisión.",
+    "Medio o vía de comunicación o transmisión.",
+    "Procedimiento o conducto que se sigue para tratar un asunto.",
+    "Conducto que recibe y vierte el agua de los tejados.",
+    "Concavidad alargada y más o menos profunda en una superficie.",
+    "Ranura o estría vertical labrada en la superficie de una columna, un triglifo, etc.",
+    "Cuerpo de una res después de muerta, abierta y despojada de las vísceras y la piel.",
+    "En un sistema de audio, cada una de las vías independientes de registro o reproducción del sonido.",
+    "Abrevadero, especialmente para el ganado."
+  ],
+  "capital": [
+    "Población principal de un Estado, provincia o distrito.",
+    "Hacienda, caudal, patrimonio.",
+    "Valor de lo que, de manera periódica o accidental, rinde o produce renta, interés o fruto.",
+    "En una sociedad mercantil, importe de las aportaciones de los socios.",
+    "Punto principal de alguna materia o asunto.",
+    "Letra mayúscula.",
+    "Perteneciente o relativo a la cabeza.",
+    "Principal o muy grande.",
+    "Dicho de una población: Cabeza de un Estado, provincia o distrito.",
+    "Dicho de los siete pecados: Que son cabeza de los demás.",
+    "Dicho de una pena: De muerte.",
+    "Dicho de un enemigo: Principal y declarado."
+  ],
+  "cobrar": [
+    "Recibir dinero como pago de una deuda.",
+    "Adquirir o alcanzar algo.",
+    "Recuperar la salud o el vigor.",
+    "Alcanzar el cazador el animal que ha herido o matado.",
+    "Cazar, especialmente con halcón, perdices u otras aves.",
+    "Tomar desquite, vengarse.",
+    "Recibir lo merecido.",
+    "Sentirse pagado de algo, con satisfacción.",
+    "Tomar o coger algo, especialmente por la fuerza.",
+    "Dicho de una cosa: Causar un determinado número de víctimas."
+  ],
+  "colaborar": [
+    "Trabajar con otra u otras personas en la realización de una obra.",
+    "Escribir habitualmente en un periódico o en una revista, sin pertenecer a la plantilla de redactores.",
+    "Concurrir o contribuir con una cantidad para algún fin."
+  ],
+  "compasión": [
+    "Sentimiento de pena, de ternura y de identificación ante los males de alguien.",
+    "Sentimiento de tristeza que produce el ver padecer a alguien y que impulsa a aliviar su dolor o sufrimiento.",
+    "Sentimiento de lástima que se tiene hacia quienes padecen calamidades o desgracias.",
+    "Lástima o conmiseración por la desgracia ajena.",
+    "En la retórica grecolatina, pasión o afecto de vehemencia destemplada."
+  ],
+  "contingente": [
+    "Que puede suceder o no suceder.",
+    "Dicho de un ser: Que su existencia no es necesaria.",
+    "Cuota o parte que cada uno debe pagar o poner de un todo, según corresponde.",
+    "Conjunto de hombres que anualmente se sortean en España para el servicio militar.",
+    "Tropas que para una acción o empresa militar aporta un Gobierno o un jefe."
+  ],
+  "copiar": [
+    "Escribir en una parte lo que está escrito en otra.",
+    "Sacar copia de un escrito o de un dibujo.",
+    "Reproducir una obra de arte.",
+    "Imitar servilmente las obras ajenas, dándolas como propias.",
+    "Imitar las acciones de alguien.",
+    "Retratar, pintar o dibujar a alguien o algo.",
+    "Reproducir datos de un dispositivo de almacenamiento a otro.",
+    "Dicho de un alumno: En un examen o ejercicio, utilizar o consultar ocultamente fuentes de información no permitidas.",
+    "Dicho de un alumno: En un examen o ejercicio, valerse de las respuestas de otro.",
+    "Abundar, tener copia de algo."
+  ],
+  "corona": [
+    "Aro de flores, de ramas o de metal, que se ciñe a la cabeza como adorno, insignia honorífica o símbolo de dignidad o realeza.",
+    "Cercado de gente que se pone alrededor de algo o de alguien para mirarlo.",
+    "Obra que remata un edificio.",
+    "Parte superior de la cabeza.",
+    "En la dentadura de los mamíferos, parte de los dientes que sobresale de la encía.",
+    "Unidad monetaria de Dinamarca, Islandia, Noruega, la República Checa, Suecia y otros países.",
+    "Aureola, o cerco luminoso que suele pintarse alrededor de la cabeza de las imágenes santas.",
+    "Tonsura eclesiástica.",
+    "Cumbre de una montaña, de una elevación del terreno.",
+    "Cosa que remata algo.",
+    "Círculo luminoso que rodea el disco del Sol o de la Luna.",
+    "En las armas de fuego de avancarga, boca del cañón.",
+    "En el reloj de bolsillo, ruedecita estriada por la cual se le da cuerda y se ponen en hora las manecillas.",
+    "Conjunto de ramas principales de un árbol que arrancan del tronco.",
+    "Base de los cuernos de los cérvidos.",
+    "En la tauromaquia, extremo superior del asta de la res vacuna, del que parte el pitón.",
+    "Cada una de las partes en que se consideran divididas las dos mandíbulas del caballo para conocer su edad.",
+    "Parte del ancla que forma el extremo inferior de la caña donde esta se une con los brazos.",
+    "Rueda dentada con dientes en una de sus caras que engrana con un piñón de eje perpendicular al suyo.",
+    "Parte más alta del casco de una caballería.",
+    "En los escritos antiguos, signo que a veces solía ponerse sobre las abreviaturas.",
+    "Obra de fortificación que se compone de un baluarte en el centro y dos medios baluartes a los lados.",
+    "Reino o monarquía.",
+    "Patrimonio y poder del rey.",
+    "En las tejas, pequeño reborde que tienen en la parte superior e inferior para encajarlas unas en otras.",
+    "En el rosario, sarta de cinco dieces de cuentas.",
+    "Rosal de cinco pétalos, de flor sencilla, que produce la rosa de Alejandría.",
+    "Molusco gasterópodo marino, con la concha cónica, con el borde superior de las vueltas con una fila de tubérculos puntiagudos."
+  ],
+  "corredor": [
+    "Que corre mucho.",
+    "Atleta especialista en carreras.",
+    "Deportista que participa en una carrera, especialmente de ciclismo o automovilismo.",
+    "Persona que por oficio interviene en compras y ventas de cualquier clase.",
+    "Pasillo de un edificio.",
+    "Pieza de paso, larga y estrecha, de cualquier edificio.",
+    "Galería o pasillo que rodea el patio principal de una casa.",
+    "Franja de territorio, generalmente larga y estrecha, que sirve de paso o de unión.",
+    "En tauromaquia, toro que se distingue por la velocidad de su carrera.",
+    "En tauromaquia, cabestro manso que sirve para guiar a los toros.",
+    "Ave zancuda, más pequeña que el alcaraván, con pico y pies amarillos y collar negro.",
+    "Lienzo de muralla que une dos baluartes o torres."
+  ],
+  "corriente": [
+    "Movimiento de una masa de líquido o de aire en una dirección determinada.",
+    "Flujo de cargas eléctricas a través de un conductor.",
+    "Tendencia u orientación de ideas, opiniones o sentimientos.",
+    "Común, que no es extraordinario ni de calidad especial.",
+    "Dicho de un período de tiempo: que está en curso o transcurre en el momento presente.",
+    "Que es sabido o conocido por la mayoría de la gente.",
+    "Dicho de un estilo o lenguaje: que es fácil, natural y sin adornos.",
+    "Que corre o fluye, como el agua de un grifo.",
+    "Dicho de una persona: que es de trato sencillo y accesible.",
+    "Que está enterado o informado de algo."
+  ],
+  "creciente": [
+    "Que crece.",
+    "Dicho de la Luna: Que está en la fase posterior a la conjunción o novilunio.",
+    "Dicho de una función: Que, para dos valores de la variable independiente tales que el primero es menor que el segundo, el valor de la función en el primero es menor o igual que en el segundo.",
+    "Crecida de un río o de un arroyo.",
+    "Fase de la Luna desde el novilunio hasta el plenilunio.",
+    "Figura de media luna con las puntas hacia arriba."
+  ],
+  "cólera": [
+    "Ira, enojo, enfado.",
+    "Enfermedad epidémica aguda de origen bacteriano, caracterizada por vómitos repetidos y diarrea intensa.",
+    "Bilis.",
+    "Uno de los cuatro humores del cuerpo humano, según la antigua medicina."
+  ],
+  "declinar": [
+    "Rechazar, rehusar una invitación, una oferta, una responsabilidad, etc.",
+    "Dicho de algo, especialmente del Sol: Acercarse a su ocaso.",
+    "Dicho de una cosa: Ir perdiendo sus facultades, su fuerza o su importancia.",
+    "Dicho de una persona: Acercarse a la vejez o a la muerte.",
+    "Dicho de una enfermedad o de su intensidad: Disminuir, menguar.",
+    "Dicho de una palabra: Sufrir las varias terminaciones de la declinación.",
+    "Dicho de una palabra: Tener declinación.",
+    "Hacer inclinar o inclinar algo."
+  ],
+  "demá": [
+    "Forma coloquial y plural de demás, usada para referirse a las otras personas."
+  ],
+  "descendiente": [
+    "Que desciende.",
+    "Hijo, nieto o cualquier persona que desciende de otra."
+  ],
+  "despacho": [
+    "Acción y efecto de despachar.",
+    "Habitación o local destinados al estudio, a ciertos trabajos intelectuales o a la gestión de asuntos profesionales.",
+    "Conjunto de muebles de un despacho.",
+    "Local donde se venden determinados productos, especialmente pan o leche.",
+    "Comunicación escrita entre el Gobierno de una nación y sus representantes diplomáticos o consulares en el extranjero.",
+    "Título o nombramiento para un empleo o cargo.",
+    "Resolución o determinación de un negocio o causa.",
+    "Comida que se toma después de otra y sin formalidad alguna.",
+    "Prontitud y desembarazo en el obrar."
+  ],
+  "diligencia": [
+    "Cuidado y actividad en ejecutar algo.",
+    "Prontitud, agilidad, prisa.",
+    "Trámite de un asunto administrativo, negocio o pretensión.",
+    "En los procedimientos judiciales, actuación ordenada por el juez, de la que se deja constancia en los autos.",
+    "Ocupación, negocio.",
+    "Coche grande, arrastrado por caballerías, que antiguamente hacía un servicio regular de transporte de viajeros y correo.",
+    "Amor, benevolencia, caridad.",
+    "Asunto de importancia."
+  ],
+  "disco": [
+    "Lámina circular de materia rígida.",
+    "Objeto o pieza de forma circular y poco grueso respecto a su diámetro.",
+    "Lámina circular en cuyas caras se graban sonidos que pueden ser reproducidos.",
+    "Soporte magnético u óptico para el almacenamiento de datos en una computadora u otro aparato.",
+    "Pieza de metal, de forma lenticular, que en atletismo se lanza con una sola mano.",
+    "Tejo con que jugaban los dioses y héroes en la mitología clásica.",
+    "En las antiguas locomotoras de vapor, señal circular que indicaba vía libre.",
+    "Placa circular y giratoria en que se fijan los números que se han de marcar en ciertos teléfonos.",
+    "Parte central del cuerpo de las estrellas de mar, de la que arrancan los brazos.",
+    "Utensilio de cocina cóncavo, de hierro, con asas y patas, que sirve para hacer frituras y guisos.",
+    "Plancha de hierro que se pone sobre el quemador de las cocinas de gas para cocinar.",
+    "Pieza del asado que corresponde al hueso de la cadera de la res.",
+    "Plataforma giratoria sobre la que se asientan las locomotoras para poder cambiar de dirección.",
+    "Semáforo manual que emplean los guardavías.",
+    "Discoteca o local público para bailar."
+  ],
+  "distribuir": [
+    "Dividir algo entre varias personas, designando lo que a cada una corresponde.",
+    "Dar a algo su oportuna colocación o el destino conveniente.",
+    "Entregar una mercancía a los vendedores y consumidores.",
+    "En la imprenta, colocar los tipos en los cajetines de la caja después de la tirada.",
+    "En lingüística, aplicar un operador a todos y cada uno de los miembros de una secuencia.",
+    "Dicho de una persona: tomar por su orden los varios miembros de un todo."
+  ],
+  "educado": [
+    "Que tiene buena educación o urbanidad.",
+    "Que ha recibido instrucción o formación.",
+    "Participio pasado de educar."
+  ],
+  "elocuente": [
+    "Que habla o escribe de modo eficaz para deleitar, conmover o persuadir.",
+    "Dicho de una cosa: Que tiene elocuencia."
+  ],
+  "empresa": [
+    "Acción o tarea que entraña dificultad y cuya ejecución requiere decisión y esfuerzo.",
+    "Unidad de organización dedicada a actividades industriales, mercantiles o de prestación de servicios con fines lucrativos.",
+    "Lugar en que se realizan las actividades de una empresa.",
+    "Intento o designio de hacer algo.",
+    "Símbolo o figura que alude a lo que se pretende conseguir o a algún linaje, acompañado frecuentemente de una palabra o mote.",
+    "Casa o sociedad mercantil o industrial fundada para emprender o llevar a cabo construcciones, negocios o proyectos de importancia.",
+    "Obra o designio llevado a efecto, en especial cuando en él intervienen varias personas."
+  ],
+  "encargado": [
+    "Que tiene a su cargo el cuidado, dirección o gobierno de algo.",
+    "Persona que tiene a su cargo una casa o un establecimiento."
+  ],
+  "enterar": [
+    "Informar a alguien de algo o hacer que lo conozca.",
+    "Completar o pagar enteramente una cantidad de dinero que se debe.",
+    "Dicho de una persona: Tomar conocimiento o recibir noticia de un asunto.",
+    "Dicho de una persona: Penetrar, comprender bien un asunto."
+  ],
+  "escritor": [
+    "Persona que escribe.",
+    "Autor de obras escritas o impresas.",
+    "Persona que tiene por oficio escribir."
+  ],
+  "especulación": [
+    "Acción y efecto de registrar, mirar o reconocer algo con atención.",
+    "Reflexión o meditación profunda sobre un asunto teórico.",
+    "Teorización sobre un asunto sin una base real o empírica.",
+    "Operación comercial o financiera que busca obtener un beneficio de la fluctuación de los precios.",
+    "Suposición o conjetura sobre algo, sin tener un conocimiento seguro."
+  ],
+  "fallar": [
+    "Dictar sentencia un juez o un tribunal.",
+    "Decidir o determinar un pleito, un concurso o un premio.",
+    "Cometer un error o equivocarse.",
+    "No producir el efecto que se esperaba.",
+    "Dejar de funcionar un mecanismo o un órgano.",
+    "Decepcionar a alguien, no comportarse como se esperaba.",
+    "Perder su fuerza o resistencia.",
+    "Faltar o escasear algo.",
+    "En los juegos de naipes, no tener carta del palo que se juega."
+  ],
+  "fallecimiento": [
+    "Acción y efecto de fallecer.",
+    "Falta o defecto."
+  ],
+  "gracioso": [
+    "Que tiene gracia o la produce.",
+    "Chistoso, agudo, festivo.",
+    "Gratuito, de balde.",
+    "Que se da o se hace de gracia.",
+    "Dicho de una cosa: Molesta, desagradable, fastidiosa.",
+    "Benévolo, que agrada y es bien recibido.",
+    "Dicho de un papel en una obra dramática o de un actor que lo desempeña: Cómico, y que tiene por principal objeto divertir y hacer reír.",
+    "Persona que en la comedia antigua española representaba el papel de donaire.",
+    "Criado del galán en la comedia antigua española.",
+    "Hierba de la familia de las gratiolas."
+  ],
+  "historia": [
+    "Narración y exposición de los acontecimientos pasados y dignos de memoria.",
+    "Disciplina que estudia y narra cronológicamente los acontecimientos pasados.",
+    "Conjunto de los acontecimientos y hechos, especialmente los vividos por un grupo humano o por un individuo.",
+    "Obra escrita que narra sucesos del pasado.",
+    "Relato o narración de un suceso, sea real o imaginario.",
+    "Mentira, pretexto o excusa.",
+    "Asunto, enredo o chisme.",
+    "Historial médico de un paciente.",
+    "Representación artística de un suceso en una pintura, tapiz o relieve."
+  ],
+  "historiador": [
+    "Perteneciente o relativo a la historia o al historiador.",
+    "Persona que se dedica al estudio de la historia.",
+    "Persona que escribe obras de historia."
+  ],
+  "impulso": [
+    "Acción y efecto de impulsar.",
+    "Instigación, sugestión.",
+    "Deseo o motivo afectivo que induce a hacer algo de manera súbita, sin reflexionar.",
+    "Fuerza que actúa sobre un cuerpo para ponerlo en movimiento.",
+    "Magnitud física, producto de una fuerza por el tiempo que dura su aplicación.",
+    "Cantidad de movimiento de un sistema, que es igual al producto de su masa por su velocidad.",
+    "En el sistema internacional, unidad de cantidad de movimiento e impulso."
+  ],
+  "indicativo": [
+    "Que indica o sirve para indicar.",
+    "Perteneciente o relativo al modo indicativo.",
+    "Dicho de un síntoma o de un signo: Que revela o señala con certidumbre una enfermedad.",
+    "Indicio o señal de algo.",
+    "Número que se marca antes del número de teléfono de un abonado para indicar el país, la región o la localidad a que corresponde.",
+    "Modo del verbo que expresa la acción de este como real y objetiva."
+  ],
+  "instalación": [
+    "Acción y efecto de instalar o instalarse.",
+    "Lugar o local en que se ha instalado algo.",
+    "Conjunto de aparatos y conducciones que sirven para un determinado fin.",
+    "Edificio o local con los enseres y servicios necesarios para un fin determinado.",
+    "Posesión que se da a alguien de un cargo, empleo, dignidad, etc.",
+    "Obra de arte que utiliza como parte de la composición el propio medio (paredes, suelo, luces, etc.) además de objetos diversos.",
+    "Proceso de transferir un programa a la memoria permanente de un ordenador."
+  ],
+  "interrogatorio": [
+    "Perteneciente o relativo a la interrogación.",
+    "Serie de preguntas, comúnmente formuladas por escrito.",
+    "Acto de interrogar la parte a quien perjudica la declaración de un testigo, o el juez a las partes o a los testigos, sobre los hechos del juicio."
+  ],
+  "intolerable": [
+    "Que no se puede tolerar.",
+    "Que no se puede sobrellevar o aguantar."
+  ],
+  "juguete": [
+    "Objeto con el que los niños juegan y desarrollan determinadas capacidades.",
+    "Objeto poco resistente y de mala calidad.",
+    "Persona o cosa dominada por un afecto, un antojo, etc., o por el influjo de alguien o de algo.",
+    "Cosa que se hace por pasatiempo o por puro entretenimiento.",
+    "Pieza de música, breve y de carácter ligero.",
+    "Adorno de poco valor."
+  ],
+  "maduro": [
+    "Dicho de un fruto: Que ha alcanzado el desarrollo completo.",
+    "Dicho de una persona: Que está en la edad adulta.",
+    "Dicho de una persona o de una cosa: Que ha alcanzado su plenitud o un estado de perfección.",
+    "Dicho de una persona: Juiciosa, prudente.",
+    "Dicho de un queso: Que ha alcanzado un grado de curación apto para su consumo.",
+    "Dicho de un absceso o de un grano: Que está en estado de supurar.",
+    "Propio o característico de la persona madura (juiciosa).",
+    "Dicho de un plátano: Que es apto para el consumo."
+  ],
+  "maravilloso": [
+    "Que es extraordinariamente bueno, admirable o excelente.",
+    "Que causa admiración o sorpresa.",
+    "Que contiene o es parte de una maravilla o milagro."
+  ],
+  "marco": [
+    "Pieza que rodea, ciñe o guarnece algunas cosas.",
+    "Cerco de una puerta, ventana u otra cosa semejante.",
+    "Límites en que se encuadra un problema, cuestión, etapa histórica, etc.",
+    "En el fútbol y otros deportes, portería.",
+    "Unidad monetaria de Alemania hasta la implantación del euro.",
+    "Unidad monetaria de Finlandia hasta la implantación del euro.",
+    "Peso de media libra, o de ocho onzas, que se usaba para el oro y la plata.",
+    "Territorio fronterizo de un estado.",
+    "Patrón o tipo que sirve de modelo y de medida.",
+    "Disposición y orden con que se plantan los árboles o las viñas.",
+    "Persona de estatura, corpulencia y fuerza extraordinarias.",
+    "Cierta medida de tierras."
+  ],
+  "matiz": [
+    "Cada uno de los grados que puede tener un color, sin perder el nombre que lo distingue de los demás.",
+    "Rasgo poco perceptible que da a algo un carácter determinado.",
+    "Intención con que se hace o se dice algo.",
+    "Unión de diversos colores mezclados con proporción.",
+    "Cada uno de los grados de la mayor o menor intensidad de los sonidos, o de la mayor o menor velocidad en la ejecución de un pasaje musical.",
+    "Rasgo semántico que distingue dos palabras de significado semejante."
+  ],
+  "metal": [
+    "Cada uno de los elementos químicos buenos conductores del calor y de la electricidad, con un brillo característico, y sólidos a temperatura ordinaria, salvo el mercurio.",
+    "Elemento químico metálico que entra en la composición de los cuerpos.",
+    "Aleación de dos o más metales.",
+    "Objeto o pieza de metal.",
+    "Timbre de la voz.",
+    "Voz que por su especial sonoridad es muy apreciada en el canto.",
+    "En las campanas, bronces y otros instrumentos, sonido vibrante y sostenido.",
+    "Calidad o índole de las cosas.",
+    "Cada uno de los dos colores heráldicos principales, que son el oro y la plata o blanco.",
+    "Disolución, especialmente la que se hace con los metales.",
+    "Conjunto de los instrumentos de viento de una orquesta, hechos de metal.",
+    "Dinero."
+  ],
+  "metro": [
+    "Unidad de longitud del Sistema Internacional que equivale a la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de 1/299 792 458 de segundo.",
+    "Instrumento para medir que tiene marcada la longitud del metro y sus divisores.",
+    "Cinta métrica.",
+    "Metro cuadrado.",
+    "Metro cúbico.",
+    "Tren metropolitano.",
+    "Perteneciente o relativo a la metrópoli."
+  ],
+  "modificado": [
+    "Participio del verbo modificar.",
+    "Que ha sido cambiado o alterado respecto a su estado o forma original.",
+    "Enmendado o corregido, especialmente un texto o una ley.",
+    "Dicho de un organismo: Cuyas características han sido alteradas artificialmente mediante ingeniería genética."
+  ],
+  "modo": [
+    "Manera de ser o de obrar.",
+    "Apariencia o aspecto externo.",
+    "Moderación o templanza en las acciones o palabras.",
+    "Urbanidad, cortesía, buenos modales.",
+    "Modificación de la sustancia.",
+    "En un sistema que puede vibrar, cada una de las formas características de vibración.",
+    "Categoría gramatical que expresa la actitud del hablante ante la acción denotada por el verbo.",
+    "Forma especial del silogismo, que depende de la cantidad y de la cualidad de las proposiciones que lo componen.",
+    "Disposición particular de los sonidos en la escala, que sirve de regla para formar los cantos y determinar su carácter."
+  ],
+  "mortal": [
+    "Sujeto a muerte.",
+    "Que ocasiona o puede ocasionar la muerte.",
+    "Perteneciente a la muerte.",
+    "Fatigoso o penoso en extremo.",
+    "Final, que es el último en algún orden o proceso.",
+    "Grande o extraordinario en su línea.",
+    "Muy pesado, molesto o enfadoso.",
+    "Hombre o persona humana."
+  ],
+  "mujer": [
+    "Persona del sexo femenino.",
+    "Mujer que ha llegado a la pubertad o a la edad adulta.",
+    "Mujer que tiene las cualidades consideradas femeninas por excelencia.",
+    "Esposa o pareja femenina habitual.",
+    "En el juego de naipes, sota.",
+    "Prostituta."
+  ],
+  "médula": [
+    "Sustancia grasa y de color amarillento que se encuentra en el interior de los huesos largos de los animales.",
+    "médula espinal.",
+    "médula oblonga.",
+    "Tejido que ocupa la parte central del cilindro vascular en el tallo y la raíz de las plantas dicotiledóneas y gimnospermas.",
+    "Sustancia principal de una cosa no material.",
+    "Juicio, sensatez."
+  ],
+  "móvil": [
+    "Que puede moverse o ser movido.",
+    "Que no tiene estabilidad o permanencia.",
+    "Aquello que mueve material o moralmente a alguien para obrar de una determinada manera.",
+    "Teléfono móvil.",
+    "Obra artística, generalmente abstracta, compuesta de diferentes piezas unidas entre sí y que pueden moverse.",
+    "Dicho de un bien: Que, por no estar anclado al suelo, es susceptible de ser trasladado de un lugar a otro sin detrimento de su naturaleza.",
+    "Dicho de un cuerpo: Que está en movimiento."
+  ],
+  "músculo": [
+    "Órgano fibroso que al contraerse produce los movimientos de los animales.",
+    "Fuerza, vigor.",
+    "Poder, influencia.",
+    "Molusco bivalvo marino, de concha alargada y de color negruzco por fuera, que vive adherido a las rocas por el biso."
+  ],
+  "no": [
+    "Palabra que se emplea para negar.",
+    "Delante de algunos sustantivos o adjetivos, denota la carencia de la cualidad expresada por ellos.",
+    "Se emplea al final de una oración interrogativa para confirmar lo que se expresa en ella.",
+    "Negación o negativa."
+  ],
+  "nombramiento": [
+    "Acción y efecto de nombrar.",
+    "Título o despacho en que consta un nombramiento."
+  ],
+  "nombrar": [
+    "Decir el nombre de alguien o de algo.",
+    "Dar nombre a alguien o a algo.",
+    "Hacer a alguien mención especial.",
+    "Proponer o elegir a alguien para un cargo o un empleo.",
+    "Hacer célebre o famoso.",
+    "Titularse o llamarse."
+  ],
+  "obtener": [
+    "Conseguir o alcanzar lo que se pretende o desea.",
+    "Fabricar o extraer un material o un producto con ciertos procedimientos o medios.",
+    "Tener, conservar y mantener.",
+    "Inferirse o deducirse una cosa de otra.",
+    "Hallar la solución a un problema o el resultado de una cuenta."
+  ],
+  "pelear": [
+    "Batallar, contender con armas.",
+    "Contender o reñir, aunque sea sin armas o solo de palabra.",
+    "Dicho de dos o más animales: Luchar entre sí.",
+    "Dicho de una persona: Oponerse a algo, resistirse a una acción o influencia.",
+    "Dicho de una persona: Trabajar con tesón y esfuerzo para conseguir un fin.",
+    "Dicho de una cosa: Mostrarse contraria a otra.",
+    "Dicho de dos o más personas: Mostrarse enemistad, odio o aversión."
+  ],
+  "pendiente": [
+    "Que pende o cuelga.",
+    "Inclinado o en declive.",
+    "Dicho de una cosa: Que está por hacerse o resolverse.",
+    "Atento o que espera con atención.",
+    "Cuesta o declive de un terreno.",
+    "Joya que se lleva colgando del lóbulo de la oreja.",
+    "Grado de inclinación de una superficie o línea.",
+    "Anotación para recordar algo que se debe atender.",
+    "Reloj de bolsillo (en desuso)."
+  ],
+  "periodista": [
+    "Persona que se dedica al periodismo.",
+    "Persona que, profesionalmente, prepara o presenta las noticias en un periódico o en otro medio de difusión.",
+    "Persona que escribe en periódicos u otras publicaciones análogas."
+  ],
+  "pila": [
+    "Montón o cúmulo que se hace de cosas puestas unas sobre otras.",
+    "Generador de corriente eléctrica que transforma energía química en eléctrica.",
+    "Receptáculo grande de piedra u otra materia donde cae o se echa el agua para diversos fines.",
+    "Pieza cóncava en la que se administra el sacramento del bautismo.",
+    "Vasija que sirve en las iglesias para contener el agua bendita.",
+    "Fregadero.",
+    "En los puentes, cada uno de los machones de piedra o fábrica que sostienen los arcos.",
+    "Reverso de la moneda.",
+    "Gran cantidad de algo.",
+    "Reactor nuclear.",
+    "En informática, estructura de datos en la que los elementos se añaden y se quitan por el mismo extremo.",
+    "Pieza heráldica de forma triangular que se extiende desde la parte superior del escudo hacia abajo.",
+    "En algunos países de América, persona muy inteligente y lista."
+  ],
+  "planta": [
+    "Ser vivo autótrofo y fotosintético, cuyas células poseen pared compuesta principalmente de celulosa y carecen de capacidad locomotora.",
+    "Vegetal, ser orgánico que crece y vive, pero no muda de lugar por impulso voluntario.",
+    "Parte inferior del pie.",
+    "Diseño de un edificio, trazado sobre un plano horizontal.",
+    "Superficie sobre la que se asienta un edificio o parte de él.",
+    "Cada uno de los pisos o altos de un edificio.",
+    "Instalación industrial.",
+    "Proyecto, idea o plan que se forma para la ejecución de algo.",
+    "Personal de una empresa o entidad.",
+    "Postura erguida y desembarazada de una persona.",
+    "Árbol nuevo que se planta.",
+    "En el juego de naipes, acción y efecto de plantarse.",
+    "Ladrón que hurta en un lugar mientras otro u otros entretienen o roban en otra parte.",
+    "Cada uno de los planos horizontales que se consideran en un edificio.",
+    "Proyección horizontal de algo.",
+    "Lugar destinado para un cuartel, campamento o plaza.",
+    "Manera de colocar las figuras en un cuadro."
+  ],
+  "precursor": [
+    "Que precede o va delante.",
+    "Persona que profesa o difunde ideas que se anticipan a su tiempo, abriendo camino a otras que las seguirán.",
+    "Iniciador de una doctrina, un movimiento, una empresa, etc.",
+    "Dicho de una sustancia: Que precede a otra en la formación de un compuesto químico."
+  ],
+  "pretender": [
+    "Querer conseguir algo o aspirar a ello.",
+    "Hacer diligencias para conseguir algo que se desea o a lo que se cree tener derecho.",
+    "Aparentar o fingir algo que no es verdad.",
+    "Cortejar a una persona con la intención de iniciar una relación amorosa."
+  ],
+  "prima": [
+    "Hija del tío o de la tía de una persona.",
+    "Cantidad de dinero que se concede como suplemento de un pago principal, a modo de incentivo o recompensa.",
+    "Cantidad que el asegurado paga a la compañía aseguradora por la cobertura de un riesgo.",
+    "Primera cuerda de la guitarra, el violín y otros instrumentos de cuerda, que es la más delgada y aguda.",
+    "Signo gráfico (') que se emplea para indicar ciertas unidades de medida o para otros usos convencionales.",
+    "Intervalo musical que consta de dos notas del mismo nombre y sonido.",
+    "Hora canónica que se reza después de laudes.",
+    "(Como adjetivo) Primera, principal o que está en primer lugar en orden o grado.",
+    "(Como adjetivo, en la expresión \"materia prima\") Que no tiene elaboración y sirve para fabricar un producto.",
+    "(Como adjetivo) Excelente, de primera calidad."
+  ],
+  "propiamente": [
+    "Con propiedad, de manera propia.",
+    "Con exactitud o rigor.",
+    "Realmente, verdaderamente.",
+    "Por sí mismo, no por otro."
+  ],
+  "propuesta": [
+    "Proposición o idea que se manifiesta y ofrece a alguien para un fin.",
+    "Consulta que se hace a uno o más individuos de una corporación sobre el sujeto o negocio que debe ocupar su deliberación.",
+    "Persona que se propone o es propuesta para un cargo o empleo."
+  ],
+  "próximo": [
+    "Que está cercano en el espacio o en el tiempo.",
+    "Siguiente, inmediatamente posterior en orden.",
+    "Prójimo."
+  ],
+  "quemar": [
+    "Abrasar o consumir con fuego.",
+    "Calentar mucho.",
+    "Gastar o malgastar el dinero u otra cosa.",
+    "Dicho del frío, del aire, de un cáustico, etc.: Producir en los tejidos orgánicos una impresión parecida a la que produce el fuego.",
+    "Dicho de algunas cosas, como el picante o el aguardiente: Producir en el paladar y en la garganta una sensación análoga a la de una quemadura.",
+    "Ofender a alguien con palabras o acciones.",
+    "En algunos juegos, tocar con la pelota a un jugador del bando contrario para eliminarlo.",
+    "Impacientar, desazonar, exasperar a alguien.",
+    "Vender a bajo precio para deshacerse pronto de la mercancía.",
+    "Hacer pasar a alguien por un riesgo o trance del que sale desacreditado o escarmentado.",
+    "Revelar a alguien o descubrir algo que estaba oculto.",
+    "Abrasarse o consumirse con fuego.",
+    "Sentir un calor muy fuerte.",
+    "Sufrir quemaduras.",
+    "Arder en deseos vehementes, especialmente en el de amor.",
+    "Estar muy cerca o a punto de conseguir o acertar algo.",
+    "Padecer mucho por algo que mortifica o atormenta.",
+    "Desacreditarse por haber actuado de forma imprudente o ilícita.",
+    "Dicho de un guiso: Pegarse al fondo del recipiente en que se prepara, tomando mal sabor."
+  ],
+  "recomendar": [
+    "Aconsejar algo a alguien para bien suyo.",
+    "Encargar, pedir o dar a alguien el cuidado de una persona o de un negocio.",
+    "Hablar en favor de alguien para que se le proporcione un trabajo o cualquier otro beneficio.",
+    "Dicho de una cosa: Hacer recomendable a otra.",
+    "Encomendar o encargar algo a alguien.",
+    "Despedirse de alguien por ausencia, y más comúnmente por escrito.",
+    "Ponerse bajo el amparo o protección de alguien, o valerse de su favor."
+  ],
+  "recordar": [
+    "Pasar a tener en la mente algo del pasado.",
+    "Hacer que alguien tenga presente algo.",
+    "Dicho de una cosa: Traer a la memoria otra por su semejanza.",
+    "Estudiar o repasar lo que se ha de decir de memoria.",
+    "Despertar del sueño."
+  ],
+  "reforma": [
+    "Acción y efecto de reformar.",
+    "Aquello que se propone, proyecta o ejecuta como innovación o mejora en algo.",
+    "En una orden religiosa, nueva regla o disciplina que se establece, restableciendo la primitiva.",
+    "Obra de albañilería que se hace en un edificio para mejorarlo o repararlo.",
+    "Retoque de la pintura, especialmente la de un retrato.",
+    "Medida disciplinaria que se aplica a los militares, privándolos de sus grados y sueldos.",
+    "Movimiento religioso que, iniciado en Alemania en el siglo XVI por Martín Lutero, dio origen a las Iglesias protestantes."
+  ],
+  "retroceder": [
+    "Volver hacia atrás.",
+    "Dicho de una cosa: Disminuir o empeorar en su estado.",
+    "Ceder en un dictamen u opinión.",
+    "Cejar, acobardarse."
+  ],
+  "saludar": [
+    "Dirigir a alguien, al encontrarlo o despedirse de él, palabras corteses, interesándose por su estado o deseándoselo bueno.",
+    "Manifestar a alguien, con palabras o ademanes, el afecto o respeto que se le tiene.",
+    "Mostrar a alguien sometimiento y respeto, especialmente a un soberano o un señor.",
+    "Acoger favorablemente un suceso.",
+    "Dicho de una cosa: anunciarse, manifestarse.",
+    "Hacer una salva o manifestación de respeto con armas, voces o música.",
+    "Visitar o enviar mensajeros a alguien como muestra de respeto o con algún otro fin.",
+    "Dar o enviar saludos."
+  ],
+  "satélite": [
+    "Cuerpo celeste opaco que gira alrededor de un planeta primario.",
+    "Vehículo, tripulado o no, que se coloca en órbita alrededor de un astro, especialmente de la Tierra, con fines científicos, militares o de comunicación.",
+    "Persona o cosa que depende de otra o está bajo su influencia.",
+    "Dicho de un Estado, de un país o de una organización: Que está bajo el dominio político o la influencia de otro más poderoso.",
+    "Ciudad que depende de otra mayor y más próxima, en la que sus habitantes suelen tener sus medios de vida.",
+    "Dicho de una vena: Que acompaña a la arteria correspondiente.",
+    "Cada una de las ruedas dentadas de un engranaje que giran sobre un eje que a su vez se mueve circularmente.",
+    "Cada uno de los pequeños salientes esferoidales que tienen algunos cromosomas en uno de sus extremos."
+  ],
+  "servidor": [
+    "Que sirve.",
+    "Persona que sirve como criado.",
+    "En el cristianismo, persona que profesa la doctrina de Jesucristo y la practica.",
+    "Bandeja para servir.",
+    "Persona o cosa que sirve en la mesa.",
+    "Orinal.",
+    "En informática, programa que, utilizando el modelo cliente-servidor, presta un determinado servicio a otros programas, denominados clientes.",
+    "En informática, ordenador que, formando parte de una red, provee servicios a otros ordenadores denominados clientes.",
+    "Fórmula de cortesía que usaba quien hablaba o escribía de sí mismo."
+  ],
+  "sexo": [
+    "Condición orgánica, masculina o femenina, de los animales y las plantas.",
+    "Conjunto de seres pertenecientes a un mismo sexo.",
+    "Conjunto de peculiaridades que caracterizan a cada sexo.",
+    "Órganos sexuales.",
+    "Actividad sexual.",
+    "Apetito sexual, propensión al placer carnal."
+  ],
+  "socialista": [
+    "Perteneciente o relativo al socialismo.",
+    "Partidario del socialismo.",
+    "Persona que profesa el socialismo.",
+    "Militante de un partido socialista.",
+    "Perteneciente o relativo al Partido Socialista Obrero Español."
+  ],
+  "solicitud": [
+    "Acción y efecto de solicitar.",
+    "Diligencia cuidadosa o anhelo vehemente de conseguir algo.",
+    "Documento o memorial en que se pide o solicita algo.",
+    "Petición formal para un puesto de trabajo, una plaza, una beca, etc.",
+    "En el antiguo procedimiento judicial, pedimento que se hacía en la demanda.",
+    "Instancias amorosas."
+  ],
+  "suposición": [
+    "Acción y efecto de suponer.",
+    "Aquello que se supone.",
+    "En la filosofía escolástica, modo de significar un término según el contexto en que se usa."
+  ],
+  "susceptible": [
+    "Capaz de recibir modificación o impresión.",
+    "Dicho de una persona: Que se ofende o toma a mal las cosas con facilidad.",
+    "Capaz de recibir la acción o efecto que se indica."
+  ],
+  "tablero": [
+    "Tabla más ancha que gruesa, de superficie plana.",
+    "Pieza cuadrada o rectangular, con casillas o escaques, para jugar al ajedrez, a las damas y a otros juegos.",
+    "Cuadro de mandos de un vehículo o de otros aparatos con indicadores y controles.",
+    "Plancha de madera u otro material que forma la parte superior de una mesa, un mostrador, etc.",
+    "Cada uno de los recuadros de madera u otra materia con que se forman las hojas de puertas, ventanas o armarios.",
+    "Parte superior y horizontal de un puente, por donde se transita.",
+    "Tabla o superficie donde se fijan avisos, anuncios o noticias.",
+    "Suelo de tablas del escenario de un teatro.",
+    "Tabla que se usa en la cocina para cortar o picar alimentos.",
+    "Cuadro que contiene los interruptores y fusibles de una instalación eléctrica.",
+    "Plano o recuadro en que se divide un lienzo de pared para adorno.",
+    "Tabla sobre la que se fija el papel para dibujar o pintar.",
+    "En los instrumentos de teclado, pieza donde se colocan las teclas.",
+    "Mesa o banco de cambista o de banquero.",
+    "Tajo de carnicero."
+  ],
+  "tarea": [
+    "Obra o trabajo.",
+    "Trabajo que debe hacerse en tiempo limitado.",
+    "Afán, penalidad, molestia.",
+    "Dificultad, cuidado, ocupación.",
+    "Deberes que se encargan a los escolares para que los hagan fuera de clase.",
+    "Antiguo peso equivalente a diez quintales de caña de azúcar.",
+    "En las explotaciones agrarias de tipo colectivo, trabajo cuyo cumplimiento dentro de la jornada normal da derecho al jornal."
+  ],
+  "trato": [
+    "Acción y efecto de tratar.",
+    "Manera de portarse con otros.",
+    "Oficio, profesión o negocio.",
+    "Relación con una o más personas.",
+    "Pacto, convenio, ajuste.",
+    "Amistad o relación amorosa más o menos íntima.",
+    "Título honorífico que se da a alguien.",
+    "En el teatro, pasaje en que hablan y se mueven pocos personajes.",
+    "En los escritos, paso o paraje en que el autor se dirige a la persona a quien escribe o dedica la obra.",
+    "Tráfico de géneros o mercancías."
+  ],
+  "tropical": [
+    "Perteneciente o relativo a los trópicos.",
+    "Propio de los trópicos.",
+    "Dicho de un año: Que se ordena según la vuelta del Sol al trópico."
+  ],
+  "variedad": [
+    "Cualidad de vario.",
+    "Diferencia, diversidad.",
+    "Conjunto de cosas diversas.",
+    "Inconstancia, inestabilidad.",
+    "Espectáculo teatral compuesto de números de diversos géneros, como cantos, bailes, cuadros plásticos, etc.",
+    "Cada uno de los grupos en que se dividen las especies, que se distinguen entre sí por ciertos caracteres que se perpetúan por la herencia.",
+    "Cada uno de los diferentes modos de realización de una lengua en un dominio geográfico o social.",
+    "En topología, espacio topológico en el que cualquier punto tiene un entorno homeomorfo a un abierto de un espacio euclídeo."
+  ],
+  "verdaderamente": [
+    "Con verdad, de un modo verdadero.",
+    "En realidad, en efecto.",
+    "Ciertamente, sin duda alguna.",
+    "Usado para asegurar o confirmar lo que se dice."
+  ],
+  "viernes": [
+    "Quinto día de la semana, sexto en el cómputo eclesiástico, que sigue al jueves y precede al sábado.",
+    "(en plural) En la Cuaresma, abstinencia de carne.",
+    "(en plural) Salario o paga de una semana."
+  ],
+  "visita": [
+    "Acción de visitar.",
+    "Persona que visita.",
+    "Concurrencia de gente en casa de una persona de distinción para cumplimentarla o por ceremonia.",
+    "Reconocimiento o inspección que por oficio o encargo se hace de un lugar o de un edificio.",
+    "En las órdenes religiosas, inspección que hacía el superior de las casas y personas de su obediencia.",
+    "Aparición o manifestación de un ser sobrenatural.",
+    "Una de las obras de misericordia, que consiste en acudir a la casa del enfermo para consolarlo y asistirlo.",
+    "Paga que se da al médico o al cirujano por la asistencia de cada día en la casa del enfermo.",
+    "Tribunal de un juez visitador.",
+    "Menstruación."
+  ],
+  "vuestro": [
+    "Perteneciente o relativo a vosotros o a vosotras.",
+    "Perteneciente o relativo a usted o a ustedes, como tratamiento de cortesía.",
+    "Lo que pertenece a vosotros o a vosotras.",
+    "Las personas de la familia, partido o bando de la persona o personas a quienes se habla."
+  ]
+}
