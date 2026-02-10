@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+transformers
+scikit-learn
+scipy
+torchmetrics
+matplotlib
+seaborn
+jupyter
+python-dotenv
