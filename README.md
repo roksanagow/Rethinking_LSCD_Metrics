@@ -39,41 +39,16 @@ The repository is notebook-driven, with a few core Python modules providing reus
 ## Installation
 
 This project isn’t packaged as a library; you typically run it from a clone.
-
-1) Create and activate a virtual environment
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-2) Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Notes:
-
-- PyTorch installation can be platform-specific (CPU/CUDA/MPS). If `pip install torch` doesn’t give you the build you want, install PyTorch following the official instructions, then run the `pip install -r requirements.txt` step again.
-
 ## Configuration
 
 The code expects your LSCD datasets to be available locally.
-
 - Set `SEMEVAL_DATA_ROOT` to the directory that contains the dataset folders referenced in [def_proj_functions.py](def_proj_functions.py).
-
-You can set environment variables directly or via a `.env` file (recommended for notebooks).
-
-
-Fill in:
-
-- `SEMEVAL_DATA_ROOT=/absolute/path/to/LSCD_datasets`
-- Optional: API keys for definition generation (if you run the definition-generation notebooks)
-
-Important:
-
-- Never commit `.env` (it’s already ignored by `.gitignore`).
 
 ## Usage
 
@@ -141,27 +116,8 @@ The main plotting utilities live in [vis_functions.py](vis_functions.py) (notabl
 
 The file [results/master_results_spaces.csv](results/master_results_spaces.csv) stores one row per `(language, encoder, definition model, metric, space)` with a Spearman correlation.
 
-Example rows:
-
-```text
-language,encoder,definition_gen_model,metric,space,spearman
-english,xll,gemini25pro,apd,full,0.781
-english,xll,gemini25pro,amd_opt_sym,def,0.597
-english,xlmr,gemini25pro,apd,def,-0.120
-```
-
 ### Hubness diagnostics
 
-The file [results/hubness.csv](results/hubness.csv) contains hubness statistics computed in the hubness notebooks.
-
-## Notes on encoders
-
-[def_proj_functions.py](def_proj_functions.py) provides a convenience loader `get_wordtransformer_model()` with short names like:
-
-- `xll` → `pierluigic/xl-lexeme`
-- `xlmr` → `FacebookAI/xlm-roberta-large`
-- `multilingual-e5` → `intfloat/multilingual-e5-large`
-
-You can also pass any HuggingFace model ID directly.
+The file [results/hubness.csv](results/hubness.csv) contains hubness statistics about the four embedding space types we analyse.
 
 
